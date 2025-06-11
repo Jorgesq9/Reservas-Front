@@ -7,6 +7,12 @@ Este proyecto es la interfaz de usuario del sistema de gestión de reservas, dis
 Accede a la app en vivo:  
 👉 https://centralreservas.jorgeesquivafullstack.es/login
 
+To log in as an admin:
+
+UserName: admin Password: admin
+
+Or you can create a new user through Swagger. https://api.jorgeesquivafullstack.es/api-docs/
+
 ## 📦 Repositorio del backend
 
 🔗 [Central-Reservas-BackEnd (API)](https://github.com/Jorgesq9/Central-Reservas-BackEnd)
